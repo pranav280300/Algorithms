@@ -33,6 +33,6 @@ void main(){
     printf("Enter the data to be sorted \n");
     getdata(p,n);
     sort(p,n);
-    printf("Sorted ... \n");
+    printf("Sorted ... .\n");
     printoutput(p,n);
 }
