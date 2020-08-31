@@ -1,7 +1,6 @@
-![alt text][logo] 
-# Algorithms
+![alt text](https://www.algorithm.agency/wp-content/uploads/2019/01/Algorithm-Logo-blue-on-white.png ) 
 All Important Algorithms in C , C++.
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 #### Sorting :
 - Insertion Sort
 - Bubble Sort
