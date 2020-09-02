@@ -7,3 +7,4 @@ All Important Algorithms in C , C++.
 - Insertion Sort
 - Bubble Sort
 - Merge Sort
+- Quick Sort
