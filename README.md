@@ -2,7 +2,10 @@
 
 ---
 All Important Algorithms in C , C++.
-
+#### Searching :
+- Linear Search
+- Binary Search (Iterative method)
+- Binary Search (Recursive method)
 #### Sorting :
 - Insertion Sort
 - Bubble Sort
