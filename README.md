@@ -8,6 +8,5 @@ All Important Algorithms in C , C++.
 #### Sorting :
 - [Insertion Sort](https://github.com/pranav280300/Algorithms/blob/master/InsertionSort.c)
 - [Bubble Sort](https://github.com/pranav280300/Algorithms/blob/master/bubbleSort.cpp)
-- [Merge Sort](https://www.markdownguide.org)
 - [Quick Sort](https://github.com/pranav280300/Algorithms/blob/master/QuickSort.cpp)
 - [Heap Sort](https://github.com/pranav280300/Algorithms/blob/master/heapsort.cpp)
