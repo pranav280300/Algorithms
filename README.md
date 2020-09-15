@@ -3,12 +3,12 @@
 ---
 All Important Algorithms in C , C++.
 #### Searching :
-- Linear Search
-- Binary Search (Iterative method)
-- Binary Search (Recursive method)
+- [Linear Search](https://www.markdownguide.org)
+- [Binary Search](https://www.markdownguide.org) (Iterative method)
+- [Binary Search](https://www.markdownguide.org)(Recursive method)
 #### Sorting :
-- Insertion Sort
-- Bubble Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
+- [Insertion Sort](https://www.markdownguide.org)
+- [Bubble Sort](https://www.markdownguide.org)
+- [Merge Sort](https://www.markdownguide.org)
+- [Quick Sort](https://www.markdownguide.org)
+- [Heap Sort](https://www.markdownguide.org)
