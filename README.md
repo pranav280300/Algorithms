@@ -8,3 +8,4 @@ All Important Algorithms in C , C++.
 - Bubble Sort
 - Merge Sort
 - Quick Sort
+- Heap Sort
