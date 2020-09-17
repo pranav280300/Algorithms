@@ -10,3 +10,4 @@ All Important Algorithms in C , C++.
 - [Bubble Sort](https://github.com/pranav280300/Algorithms/blob/master/bubbleSort.cpp)
 - [Quick Sort](https://github.com/pranav280300/Algorithms/blob/master/QuickSort.cpp)
 - [Heap Sort](https://github.com/pranav280300/Algorithms/blob/master/heapsort.cpp)
+- [Merge Sort](https://github.com/pranav280300/Algorithms/blob/master/mergeSort.cpp)
